@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Picture of baby penguins fighting](https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F502b3c6a-ec20-11e8-8888-d940336e3709.jpg?crop=4346%2C2445%2C639%2C739&resize=1180)
